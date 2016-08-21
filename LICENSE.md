@@ -618,6 +618,12 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
+  18. Documents can't be shared or modify without permission.
+
+  In this project, we left the the documents packed in 7zip format. 
+This is for the backup data use, so that we did not give any permission
+to copy or modify. Documents can't be shared or modify without permission.
+
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
@@ -673,4 +679,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-**documents can't be shared or modify without permission!
+
